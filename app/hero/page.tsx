@@ -103,7 +103,7 @@ export default function CategoriesPage() {
   return (
     <>
       <Head>
-        <title>NovaCart | Pakistan's #1 Online Store - Shop 10,000+ Products Across Categories</title>
+        <title>NovaCart | Pakistan #1 Online Store - Shop 10,000+ Products Across Categories</title>
         <meta
           name="description"
           content="✨ Explore 50+ categories at NovaCart - Pakistan's largest online marketplace for fashion, electronics, jewelry & home goods. Free delivery nationwide ✓ Cash on Delivery ✓ 7-Day Returns"
