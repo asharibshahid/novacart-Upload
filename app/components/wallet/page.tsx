@@ -20,7 +20,7 @@ export default async function WalletCard() {
   return (
     <>
       <Head>
-        <title>NovaCart | Premium Leather Wallets Pakistan | Men's Designer Wallets</title>
+        <title>NovaCart | Premium Leather Wallets Pakistan | Mens Designer Wallets</title>
         <meta name="description" content="👛 Genuine leather wallets for men in Pakistan - RFID blocking, premium stitching & 1-year warranty. Bulk orders available with COD across Pakistan" />
         <meta name="keywords" content="leather wallets Pakistan, men wallets Karachi, RFID blocking wallet, designer wallets Lahore, NovaCart wallets, bulk wallet orders" />
         <meta name="author" content="NovaCart Global" />
