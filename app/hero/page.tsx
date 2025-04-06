@@ -9,61 +9,61 @@ const categories = [
   { 
     name: "Luxury Wallets", 
     emoji: "👛", 
-    route: "/collections/leather-wallets",
+    route: "/components/wallet",
     keywords: ["premium leather wallets", "men's designer wallets", "RFID blocking wallets Pakistan"]
   },
   { 
     name: "Trending Sneakers", 
     emoji: "👟", 
-    route: "/collections/sneakers-2025",
+    route: "/components/shoes",
     keywords: ["latest sneakers Pakistan", "comfortable running shoes", "branded sports shoes"]
   },
   { 
     name: "Premium Perfumes", 
     emoji: "🌸", 
-    route: "/collections/luxury-perfumes",
+    route: "/components/perfume",
     keywords: ["designer fragrances", "long-lasting perfumes", "imported perfumes Pakistan"]
   },
   { 
     name: "Modern Furniture", 
     emoji: "🪑", 
-    route: "/collections/home-furniture",
+    route: "/components/furniture",
     keywords: ["luxury home decor", "Pakistani furniture", "affordable sofas"]
   },
   { 
     name: "Smart Gadgets", 
     emoji: "📱", 
-    route: "/collections/electronics",
+    route: "/components/electronics",
     keywords: ["latest tech Pakistan", "smart home devices", "wireless earbuds 2025"]
   },
   { 
     name: "Fashion Clothing", 
     emoji: "👕", 
-    route: "/collections/pakistani-fashion",
+    route: "/components/clothing",
     keywords: ["trending outfits 2025", "modest Islamic wear", "premium fabric clothing"]
   },
   { 
     name: "Premium Hijabs", 
     emoji: "🧕", 
-    route: "/collections/hijabs",
+    route: "/components/hijabs",
     keywords: ["luxury chiffon hijabs", "ready-to-wear shawls", "Pakistani hijab brands"]
   },
   { 
     name: "Gold Jewelry", 
     emoji: "💍", 
-    route: "/collections/jewelry",
+    route: "/components/jewelry",
     keywords: ["22k gold jewelry", "traditional Pakistani jewelry", "bridal collection"]
   },
   { 
     name: "Designer Caps", 
     emoji: "🧢", 
-    route: "/collections/caps",
+    route: "/components/caps",
     keywords: ["branded baseball caps", "trendy headwear", "unisex caps Pakistan"]
   },
   { 
     name: "Graphic Tees", 
     emoji: "👚", 
-    route: "/collections/tshirts",
+    route: "/components/tshirt",
     keywords: ["cotton t-shirts Pakistan", "trendy graphic tees", "oversized t-shirts"]
   },
 ];
