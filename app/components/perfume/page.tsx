@@ -21,7 +21,7 @@ export default async function PerfumeCard() {
   return (
     <>
       <Head>
-        <title>NovaCart | Pakistan's #1 Luxury Perfumes Store | Premium Fragrances</title>
+        <title>NovaCart | Pakistan #1 Luxury Perfumes Store | Premium Fragrances</title>
         <meta name="description" content="✨ Buy authentic designer perfumes in Pakistan with COD. 100+ luxury fragrances from Chanel, Dior, Versace & more. Free delivery on bulk orders." />
         <meta name="keywords" content="luxury perfumes Pakistan, buy original perfumes Karachi, designer fragrances Lahore, imported perfumes Islamabad, B2B perfume wholesale, NovaCart perfumes" />
         <meta name="author" content="NovaCart Global" />
