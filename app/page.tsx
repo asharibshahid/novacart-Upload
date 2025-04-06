@@ -12,7 +12,7 @@ export default function Home() {
       {/* Enhanced SEO Meta Tags with MLB Strategy */}
       <Head>
         {/* Primary Meta Tags */}
-        <title>NovaCart | Pakistan's #1 Online Store for Jewelry, Electronics & Fashion | Free Delivery</title>
+        <title>NovaCart | Pakistan #1 Online Store for Jewelry, Electronics & Fashion | Free Delivery</title>
         <meta
           name="description"
           content="🇵🇰 Pakistan's Largest Online Marketplace - Shop 10,000+ products in Jewelry, Electronics, Fashion & More. ✓ Cash on Delivery ✓ 7-Day Returns ✓ Authentic Brands"
