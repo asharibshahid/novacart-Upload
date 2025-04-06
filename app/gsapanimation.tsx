@@ -134,7 +134,7 @@ export default function HeroSection() {
                 className="block text-lg md:text-2xl font-light text-gray-300 mt-2 md:mt-4"
                 itemProp="alternativeHeadline"
               >
-                Pakistan's #1 Online Shopping Destination
+                Pakistan #1 Online Shopping Destination
               </span>
             </h1>
 
