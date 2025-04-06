@@ -179,7 +179,7 @@ export default function CategoriesPage() {
           >
             Shop Our Trending Categories
             <span className="block text-lg md:text-xl font-normal text-gray-300 mt-4">
-              Pakistan's Most Trusted Online Marketplace
+              Pakistan Most Trusted Online Marketplace
             </span>
           </h1>
 
