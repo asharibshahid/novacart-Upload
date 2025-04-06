@@ -167,7 +167,7 @@ export default function HeroSection() {
 
             {/* Schema-Marked CTA */}
             <Link
-              href="/products"
+              href="/hero"
               className="relative overflow-hidden group"
               itemProp="significantLink"
             >
